@@ -26,7 +26,8 @@
 	}else {
 		mensaje = "No se ha podido añadir a la base da datos";
 	}
-	%>	
+	%>
+	<h1>Hola</h1>
 	<div><%=mensaje%></div>
 
 </body>
